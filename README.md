@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**beichensky/beichensky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 2022 `Flag`
 
-Here are some ideas to get you started:
+- [ ] 写 100 篇博客
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [ ] 刷 100 道算法
+
+- [ ] 精读一遍《JavaScript 高级程序设计》
+
+- [ ] 。。。
+
+### `Languages`
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beichensky)
+### `Stats`
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beichensky&show_icons=true&theme=default)
