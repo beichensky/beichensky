@@ -10,9 +10,8 @@
 
 - [ ] 。。。
 
-### `Languages`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beichensky)
 ### `Stats`
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beichensky&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beichensky)
